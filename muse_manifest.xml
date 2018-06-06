@@ -1,0 +1,57 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jordanweaver.co.uk" resolutions="1x" timestamp="1528324765686">
+  <folder name="css">
+    <file name="site_global.css" crc="4007267860"/>
+    <file name="index.css" crc="3780485023" ref="index"/>
+    <file name="contact.css" crc="51413943" ref="contact"/>
+    <file name="about.css" crc="4049544565" ref="about"/>
+    <file name="stigma.css" crc="4093108906" ref="stigma"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:stigma"/>
+    <file name="museutils.js" crc="17924269" ref="index:about:contact:stigma"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact:stigma"/>
+    <file name="museconfig.js" crc="144853533" ref="index:about:contact:stigma"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:about:contact:stigma"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index:about:contact:stigma"/>
+    <file name="webpro.js" crc="416662029" ref="stigma"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="stigma"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="stigma"/>
+    <file name="touchswipe.js" crc="432264157" ref="stigma"/>
+  </folder>
+  <folder name="images">
+    <file name="screening_cover.jpg" crc="3775178187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stig3.jpg" crc="510673868" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gif_cover.gif" crc="3780739276" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jw_screening_cover.jpg" crc="3812864043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jw_stigma_cover.jpg" crc="3890708926" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stig2.jpg" crc="4204616473" seo="true" ref="stigma">
+      <caption webpage="stigma" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="3936421572" seo="true" ref="stigma">
+      <caption webpage="stigma" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="stigma"/>
+    <file name="road.jpg" crc="3870041364" seo="true" ref="stigma">
+      <caption webpage="stigma" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="48470008" seo="true" ref="stigma">
+      <caption webpage="stigma" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="stigma"/>
+  </folder>
+  <file name="index.html" crc="4019185726" seo="true" mt="1528324606380" redirect="true"/>
+  <file name="about.html" crc="286626258" seo="true" mt="1528310499135" redirect="true"/>
+  <file name="contact.html" crc="531840619" seo="true" mt="1528310889745" redirect="true"/>
+  <file name="stigma.html" crc="531924216" seo="true" mt="1528310499133" redirect="true"/>
+</manifest>
